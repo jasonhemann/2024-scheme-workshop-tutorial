@@ -1,0 +1,9 @@
+
+* let/cc
+
+https://docs.racket-lang.org/reference/cont.html#%28form._%28%28lib._racket%2Fprivate%2Fmore-scheme..rkt%29._let%2Fcc%29%29
+
+* A9 thesis
+
+https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ffe96ionbykj01.jpg
+(via https://old.reddit.com/r/ProgrammerHumor/comments/81re59/why_i_never_worry_about_function_or_class/)
